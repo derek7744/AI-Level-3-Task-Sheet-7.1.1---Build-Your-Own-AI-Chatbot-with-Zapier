@@ -1,0 +1,15 @@
+Phase,Task_Name,Prerequisites,Estimated_Duration,Owner_Role,Common_Bottleneck
+1. Initiation & Scoping,Intake Raw Notes & Stakeholder Requirements,None,0.5 Days,Project Lead,Ambiguous scope or conflicting stakeholder priorities
+1. Initiation & Scoping,Draft Project Charter & SMART Objectives,Intake Raw Notes & Stakeholder Requirements,1 Day,Project Lead,Unrealistic timeline expectations without baseline metrics
+1. Initiation & Scoping,Budget Estimation & Resource Feasibility Audit,Draft Project Charter & SMART Objectives,1 Day,Operations / Finance Coordinator,Delayed vendor quotes or unverified existing inventory
+1. Initiation & Scoping,Executive Charter & Budget Sign-Off,Budget Estimation & Resource Feasibility Audit,2 Days,Program Sponsor / Approver,Approver unavailability or missing justification for contingency
+2. Design & Architecture,Define Technical / Instructional Specifications,Executive Charter & Budget Sign-Off,2 Days,Technical / Curriculum Lead,Scope creep during architecture or syllabus detailing
+2. Design & Architecture,"Develop SOPs, Rubrics & Assessment Instruments",Define Technical / Instructional Specifications,1.5 Days,Quality & Assessment Specialist,Misalignment between stated objectives and evaluation criteria
+2. Design & Architecture,Procurement & Environment Provisioning,Executive Charter & Budget Sign-Off,3 Days,Systems / Logistics Administrator,Hardware delivery delays or software licensing/permission locks
+3. Build & Preparation,Configure Core Infrastructure / Draft Content Modules,Define Technical / Instructional Specifications; Procurement & Environment Provisioning,4 Days,Technical / Curriculum Lead,"Configuration drift, network/access issues, or asset formatting errors"
+3. Build & Preparation,Internal Peer Review & Dry-Run Validation,"Configure Core Infrastructure / Draft Content Modules; Develop SOPs, Rubrics & Assessment Instruments",1 Day,Quality & Assessment Specialist,Skipping edge-case testing due to schedule compression
+4. Execution & Rollout,Stakeholder Onboarding & Communications Dispatch,Internal Peer Review & Dry-Run Validation,0.5 Days,Communications / Admin Coordinator,Outdated participant contact lists or unclear pre-session instructions
+4. Execution & Rollout,Live Implementation / Workshop Delivery,Stakeholder Onboarding & Communications Dispatch,2 Days,Project Lead; Technical / Curriculum Lead,"Connectivity drops, attendance gaps, or pacing overruns"
+4. Execution & Rollout,"Collect Attendance, Logs & Evaluation Artifacts",Live Implementation / Workshop Delivery,0.5 Days,Operations / Finance Coordinator,Incomplete sign-in sheets or low post-session survey response rates
+5. Closure & Handover,Compile Post-Implementation & Variance Report,"Collect Attendance, Logs & Evaluation Artifacts",1 Day,Project Lead,Missing receipts/audit logs for budget-to-actual reconciliation
+5. Closure & Handover,Archive Assets & Conduct Lessons Learned Review,Compile Post-Implementation & Variance Report,0.5 Days,Project Lead; Operations / Finance Coordinator,Rushing to next project before documenting reusable templates
